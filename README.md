@@ -11,13 +11,8 @@ baseline and cap height, and playful flourishes like those on the R, J, K, Q, an
 decoration possible in hand-painted signage.
 
 The typeface is meant to evoke the identity and spirit of the place where I encountered the
-inspirational forms, while accounting for my own presence and experiences in it.
+inspirational forms, while accounting for my own presence and experiences.
 
 <br/>
 
-![Street names](docs/images/Girassol_Samples-01.png)
-
-
-![Cada macaco no seu galho](docs/images/Girassol_Samples-02.png)
-
-![Demonstrative character set](docs/images/Girassol_Samples-03.png)
+![Type samples](docs/images/Girassol_Samples-01.png)
