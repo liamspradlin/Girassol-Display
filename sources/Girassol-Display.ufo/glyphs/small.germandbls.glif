@@ -60,7 +60,7 @@
       <point x="151.0" y="550.0"/>
       <point x="90.0" y="492.0"/>
     </contour>
-    <component base=".smallcomponents_bottom_half_serif" xOffset="-6"/>
+    <component base="smallcomponents_btm_half_serif" xOffset="-6"/>
   </outline>
   <lib>
     <dict>

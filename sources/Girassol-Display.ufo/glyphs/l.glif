@@ -25,8 +25,8 @@
       <point x="194" y="77" type="line"/>
       <point x="84" y="77" type="line"/>
     </contour>
-    <component base=".smallcomponent_top_serif" xOffset="-12"/>
-    <component base=".smallcomponents_bottom_half_serif" xOffset="-12"/>
+    <component base="smallcomponent_top_serif" xOffset="-12"/>
+    <component base="smallcomponents_btm_half_serif" xOffset="-12"/>
   </outline>
   <lib>
     <dict>

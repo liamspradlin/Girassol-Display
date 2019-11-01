@@ -2,22 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>.component_beak_right</key>
-    <string>_component_beak_right.glif</string>
-    <key>.component_bottom_serif</key>
-    <string>_component_bottom_serif.glif</string>
-    <key>.component_top_serif</key>
-    <string>_component_top_serif.glif</string>
     <key>.notdef</key>
     <string>_notdef.glif</string>
-    <key>.smallcomponent_bottom_serif</key>
-    <string>_smallcomponent_bottom_serif.glif</string>
-    <key>.smallcomponent_top_half_serif</key>
-    <string>_smallcomponent_top_half_serif.glif</string>
-    <key>.smallcomponent_top_serif</key>
-    <string>_smallcomponent_top_serif.glif</string>
-    <key>.smallcomponents_bottom_half_serif</key>
-    <string>_smallcomponents_bottom_half_serif.glif</string>
     <key>A</key>
     <string>A_.glif</string>
     <key>AE</key>
@@ -366,6 +352,12 @@
     <string>commaaccent.glif</string>
     <key>commaturnedabovecmb</key>
     <string>commaturnedabovecmb.glif</string>
+    <key>component_beak_right</key>
+    <string>component_beak_right.glif</string>
+    <key>component_bottom_serif</key>
+    <string>component_bottom_serif.glif</string>
+    <key>component_top_serif</key>
+    <string>component_top_serif.glif</string>
     <key>copyright</key>
     <string>copyright.glif</string>
     <key>currency</key>
@@ -478,10 +470,10 @@
     <string>greater.glif</string>
     <key>gtilde</key>
     <string>gtilde.glif</string>
-    <key>guillemotleft</key>
-    <string>guillemotleft.glif</string>
-    <key>guillemotright</key>
-    <string>guillemotright.glif</string>
+    <key>guillemetleft</key>
+    <string>guillemetleft.glif</string>
+    <key>guillemetright</key>
+    <string>guillemetright.glif</string>
     <key>guilsinglleft</key>
     <string>guilsinglleft.glif</string>
     <key>guilsinglright</key>
@@ -706,6 +698,14 @@
     <string>slash.glif</string>
     <key>small.germandbls</key>
     <string>small.germandbls.glif</string>
+    <key>smallcomponent_bottom_serif</key>
+    <string>smallcomponent_bottom_serif.glif</string>
+    <key>smallcomponent_top_half_serif</key>
+    <string>smallcomponent_top_half_serif.glif</string>
+    <key>smallcomponent_top_serif</key>
+    <string>smallcomponent_top_serif.glif</string>
+    <key>smallcomponents_btm_half_serif</key>
+    <string>smallcomponents_btm_half_serif.glif</string>
     <key>soundrecordingcopyright</key>
     <string>soundrecordingcopyright.glif</string>
     <key>space</key>
@@ -762,6 +762,8 @@
     <string>umacron.glif</string>
     <key>underscore</key>
     <string>underscore.glif</string>
+    <key>uni000D</key>
+    <string>uni000D_.glif</string>
     <key>uogonek</key>
     <string>uogonek.glif</string>
     <key>uring</key>

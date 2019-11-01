@@ -33,9 +33,9 @@
       <point x="198" y="48"/>
       <point x="198" y="80" type="curve"/>
     </contour>
-    <component base=".smallcomponent_top_serif" xOffset="265" yOffset="210"/>
-    <component base=".smallcomponent_bottom_serif" xOffset="265"/>
-    <component base=".component_top_serif" xOffset="-10"/>
+    <component base="smallcomponent_top_serif" xOffset="265" yOffset="210"/>
+    <component base="smallcomponent_bottom_serif" xOffset="265"/>
+    <component base="component_top_serif" xOffset="-10"/>
   </outline>
   <lib>
     <dict>

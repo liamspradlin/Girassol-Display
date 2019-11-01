@@ -31,7 +31,7 @@
       <point x="107.0" y="713.0"/>
       <point x="188" y="713" type="curve" smooth="yes"/>
     </contour>
-    <component base=".component_bottom_serif" xOffset="105"/>
+    <component base="component_bottom_serif" xOffset="105"/>
   </outline>
   <lib>
     <dict>

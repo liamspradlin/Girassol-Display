@@ -31,7 +31,7 @@
       <point x="373" y="548"/>
       <point x="359" y="540"/>
     </contour>
-    <component base=".smallcomponent_bottom_serif" xOffset="68"/>
+    <component base="smallcomponent_bottom_serif" xOffset="68"/>
   </outline>
   <lib>
     <dict>

@@ -52,8 +52,8 @@
       <point x="83" y="501"/>
       <point x="147" y="501" type="curve" smooth="yes"/>
     </contour>
-    <component base=".smallcomponent_bottom_serif" xOffset="378"/>
-    <component base=".smallcomponent_bottom_serif" xOffset="68"/>
+    <component base="smallcomponent_bottom_serif" xOffset="378"/>
+    <component base="smallcomponent_bottom_serif" xOffset="68"/>
   </outline>
   <lib>
     <dict>

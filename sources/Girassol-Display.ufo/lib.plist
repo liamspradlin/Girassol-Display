@@ -454,9 +454,9 @@
     <key>com.typemytype.robofont.compileSettings.layerName</key>
     <string>foreground</string>
     <key>com.typemytype.robofont.compileSettings.path</key>
-    <string>/Users/liam/Documents/GirassolCharsTest.otf</string>
+    <string>/Users/liam/Documents/GitHub/Girassol-Display/fonts/Girassol-Display.ttf</string>
     <key>com.typemytype.robofont.compileSettings.releaseMode</key>
-    <integer>0</integer>
+    <integer>1</integer>
     <key>com.typemytype.robofont.italicSlantOffset</key>
     <integer>0</integer>
     <key>com.typemytype.robofont.segmentType</key>
@@ -774,8 +774,6 @@
       <string>quotedblbase</string>
       <string>guilsinglleft</string>
       <string>guilsinglright</string>
-      <string>guillemotleft</string>
-      <string>guillemotright</string>
       <string>backslash</string>
       <string>slash</string>
       <string>bar</string>
@@ -859,13 +857,13 @@
       <string>lozenge</string>
       <string>radical</string>
       <string>summation</string>
-      <string>.component_beak_right</string>
-      <string>.component_bottom_serif</string>
-      <string>.component_top_serif</string>
-      <string>.smallcomponent_bottom_serif</string>
-      <string>.smallcomponent_top_half_serif</string>
-      <string>.smallcomponent_top_serif</string>
-      <string>.smallcomponents_bottom_half_serif</string>
+      <string>component_beak_right</string>
+      <string>component_bottom_serif</string>
+      <string>component_top_serif</string>
+      <string>smallcomponent_bottom_serif</string>
+      <string>smallcomponent_top_half_serif</string>
+      <string>smallcomponent_top_serif</string>
+      <string>smallcomponents_btm_half_serif</string>
       <string>J.alt_1</string>
       <string>K.alt_1</string>
       <string>L_A</string>
@@ -890,10 +888,14 @@
       <string>onequarter</string>
       <string>onehalf</string>
       <string>brokenbar</string>
+      <string>guillemetleft</string>
+      <string>guillemetright</string>
       <string>hyphensoft</string>
       <string>currency</string>
       <string>divisionslash</string>
       <string>mu.math</string>
+      <string>uni000D</string>
+      <string>.component_beak_right</string>
     </array>
   </dict>
 </plist>

@@ -42,8 +42,8 @@
       <point x="465" y="300"/>
       <point x="390" y="395"/>
     </contour>
-    <component base=".component_top_serif" xOffset="-6"/>
-    <component base=".component_bottom_serif" xOffset="-6"/>
+    <component base="component_top_serif" xOffset="-6"/>
+    <component base="component_bottom_serif" xOffset="-6"/>
   </outline>
   <lib>
     <dict>

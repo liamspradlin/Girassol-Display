@@ -50,8 +50,8 @@
       <point x="246" y="363" type="line"/>
       <point x="246" y="323" type="line"/>
     </contour>
-    <component base=".component_bottom_serif" xOffset="-10"/>
-    <component base=".smallcomponent_top_half_serif" xOffset="-10" yOffset="210"/>
+    <component base="component_bottom_serif" xOffset="-10"/>
+    <component base="smallcomponent_top_half_serif" xOffset="-10" yOffset="210"/>
   </outline>
   <lib>
     <dict>

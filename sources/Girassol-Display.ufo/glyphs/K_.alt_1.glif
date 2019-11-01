@@ -33,8 +33,8 @@
       <point x="525.0" y="38"/>
       <point x="504" y="52"/>
     </contour>
-    <component base=".component_bottom_serif" xOffset="-6" yOffset="1"/>
-    <component base=".component_top_serif" xOffset="-6"/>
+    <component base="component_bottom_serif" xOffset="-6" yOffset="1"/>
+    <component base="component_top_serif" xOffset="-6"/>
   </outline>
   <lib>
     <dict>
