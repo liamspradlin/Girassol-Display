@@ -15,4 +15,20 @@ inspirational forms, while accounting for my own presence and experiences.
 
 <br/>
 
+<<<<<<< Updated upstream
 ![Type samples](docs/images/Girassol_Samples-01.png)
+=======
+![Type samples](docs/images/Girassol_Samples-01.png)
+
+## Features
+Features include lining numerals, fractions, and some alternates.
+
+## License
+Girassol is licensed under the SIL Open Font License v1.1
+
+##Changelog
+New changes will be added to the start of this section.
+
+**1 November 2019 (Liam Spradlin) Girassol v0.01**
+* The very first push :)
+>>>>>>> Stashed changes
