@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresistonos" format="2">
+  <advance width="394"/>
+  <unicode hex="0385"/>
+  <outline>
+    <contour>
+      <point x="57" y="866" type="curve"/>
+      <point x="57" y="834"/>
+      <point x="73" y="817"/>
+      <point x="103" y="817" type="curve"/>
+      <point x="131" y="817"/>
+      <point x="146" y="834"/>
+      <point x="146" y="866" type="curve"/>
+      <point x="146" y="899"/>
+      <point x="131" y="917"/>
+      <point x="103" y="917" type="curve"/>
+      <point x="73" y="917"/>
+      <point x="57" y="900"/>
+    </contour>
+    <contour>
+      <point x="247" y="866" type="curve"/>
+      <point x="247" y="834"/>
+      <point x="263" y="817"/>
+      <point x="293" y="817" type="curve"/>
+      <point x="321" y="817"/>
+      <point x="336" y="834"/>
+      <point x="336" y="866" type="curve"/>
+      <point x="336" y="899"/>
+      <point x="321" y="917"/>
+      <point x="293" y="917" type="curve"/>
+      <point x="263" y="917"/>
+      <point x="247" y="900"/>
+    </contour>
+    <component base="tonos" xOffset="109" yOffset="142"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.2645,0.8606,0.3738,1</string>
+    </dict>
+  </lib>
+</glyph>

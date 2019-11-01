@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="J.alt_1" format="2">
+  <advance width="292"/>
+  <outline>
+    <contour>
+      <point x="4" y="-120" type="line" smooth="yes"/>
+      <point x="133.0" y="-120.0"/>
+      <point x="202.0" y="-39.0"/>
+      <point x="202" y="114" type="curve" smooth="yes"/>
+      <point x="202" y="742" type="line"/>
+      <point x="90" y="742" type="line"/>
+      <point x="90" y="66" type="line" smooth="yes"/>
+      <point x="90.0" y="-27.0"/>
+      <point x="54" y="-80"/>
+      <point x="-8" y="-80" type="curve" smooth="yes"/>
+      <point x="-33" y="-80" type="line"/>
+      <point x="-33" y="-120" type="line"/>
+    </contour>
+    <component base=".component_top_serif" xOffset="-6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.2645,0.8606,0.3738,1</string>
+    </dict>
+  </lib>
+</glyph>
