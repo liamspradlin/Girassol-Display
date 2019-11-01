@@ -23,7 +23,7 @@ Features include lining numerals, fractions, and some alternates.
 ## License
 Girassol is licensed under the SIL Open Font License v1.1
 
-##Changelog
+## Changelog
 New changes will be added to the start of this section.
 
 **1 November 2019 (Liam Spradlin) Girassol v0.01**
