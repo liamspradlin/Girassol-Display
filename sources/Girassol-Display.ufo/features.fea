@@ -28,5 +28,5 @@ feature aalt {
     
     #Other stuff
     sub dagger from [dagger dagger.alt_1];
-    sub daggerdbl from [daggerdbl daggerdbl.alt_1]
+    sub daggerdbl from [daggerdbl daggerdbl.alt_1];
     } aalt;

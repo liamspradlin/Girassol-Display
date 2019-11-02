@@ -454,7 +454,7 @@
     <key>com.typemytype.robofont.compileSettings.layerName</key>
     <string>foreground</string>
     <key>com.typemytype.robofont.compileSettings.path</key>
-    <string>/Users/liam/Desktop/Girassol-Display.ttf</string>
+    <string>/Users/liam/Documents/GitHub/Girassol-Display/fonts/Girassol-Display.ttf</string>
     <key>com.typemytype.robofont.compileSettings.releaseMode</key>
     <integer>1</integer>
     <key>com.typemytype.robofont.italicSlantOffset</key>
