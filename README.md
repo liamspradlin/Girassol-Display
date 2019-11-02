@@ -1,9 +1,8 @@
 # Girassol
 
 ## Description
-Girassol is an all-caps + small-caps display typeface inspired by the lettering on hand-painted street signs in and around
-Carcavelos, Portugal. It is strengthened and unified by aesthetic sensibility developed in
-observation of historical references and a variety of sign lettering around the region.
+Girassol is an all-caps (plus smallcaps) display typeface inspired by the lettering on hand-painted street signs in and around
+Carcavelos, Portugal.
 
 The primary characteristics that define Girassol include its condensed proportions, moderate
 contrast following the expansion model, a thorny, decorative serif construction that pierces the
@@ -18,7 +17,7 @@ inspirational forms, while accounting for my own presence and experiences.
 ![Type samples](docs/images/Girassol_Samples-01.png)
 
 ## Features
-Features include lining numerals, fractions, and some alternates.
+Features include lining numerals, fractions, discretionary ligatures, and alternates.
 
 ## License
 Girassol is licensed under the SIL Open Font License v1.1
