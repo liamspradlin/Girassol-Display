@@ -25,4 +25,8 @@ feature aalt {
     #Small caps
     sub k from [k k.alt_1];
     sub j from [j j.alt_1];
+    
+    #Other stuff
+    sub dagger from [dagger dagger.alt_1];
+    sub daggerdbl from [daggerdbl daggerdbl.alt_1]
     } aalt;
