@@ -4,10 +4,33 @@
   <dict>
     <key>A</key>
     <dict>
+      <key>T</key>
+      <integer>-32</integer>
+      <key>T_T</key>
+      <integer>-32</integer>
       <key>V</key>
       <integer>-42</integer>
       <key>W</key>
       <integer>-42</integer>
+      <key>v</key>
+      <integer>-32</integer>
+    </dict>
+    <key>L_A</key>
+    <dict>
+      <key>T</key>
+      <integer>-32</integer>
+      <key>T_T</key>
+      <integer>-32</integer>
+    </dict>
+    <key>T</key>
+    <dict>
+      <key>A</key>
+      <integer>-32</integer>
+    </dict>
+    <key>T_T</key>
+    <dict>
+      <key>A</key>
+      <integer>-32</integer>
     </dict>
     <key>V</key>
     <dict>
@@ -28,10 +51,31 @@
     </dict>
     <key>a</key>
     <dict>
+      <key>t</key>
+      <integer>-16</integer>
+      <key>t_t</key>
+      <integer>-16</integer>
       <key>v</key>
       <integer>-42</integer>
       <key>w</key>
       <integer>-24</integer>
+    </dict>
+    <key>l_a</key>
+    <dict>
+      <key>t</key>
+      <integer>-16</integer>
+      <key>t_t</key>
+      <integer>-16</integer>
+    </dict>
+    <key>t</key>
+    <dict>
+      <key>a</key>
+      <integer>-16</integer>
+    </dict>
+    <key>t_t</key>
+    <dict>
+      <key>a</key>
+      <integer>-16</integer>
     </dict>
     <key>v</key>
     <dict>

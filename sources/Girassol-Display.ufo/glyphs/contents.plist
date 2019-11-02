@@ -46,6 +46,8 @@
     <string>C_dotaccent.glif</string>
     <key>D</key>
     <string>D_.glif</string>
+    <key>D_E</key>
+    <string>D__E_.glif</string>
     <key>Dcaron</key>
     <string>D_caron.glif</string>
     <key>Dcroat</key>
@@ -364,6 +366,8 @@
     <string>currency.glif</string>
     <key>d</key>
     <string>d.glif</string>
+    <key>d_e</key>
+    <string>d_e.glif</string>
     <key>dagger</key>
     <string>dagger.glif</string>
     <key>dagger.alt_1</key>
@@ -524,6 +528,8 @@
     <string>kgreenlandic.glif</string>
     <key>l</key>
     <string>l.glif</string>
+    <key>l_a</key>
+    <string>l_a.glif</string>
     <key>lacute</key>
     <string>lacute.glif</string>
     <key>lcaron</key>
@@ -658,6 +664,8 @@
     <string>quotesingle.glif</string>
     <key>r</key>
     <string>r.glif</string>
+    <key>r_r</key>
+    <string>r_r.glif</string>
     <key>racute</key>
     <string>racute.glif</string>
     <key>rcaron</key>

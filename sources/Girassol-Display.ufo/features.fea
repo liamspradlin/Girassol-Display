@@ -1,0 +1,28 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+#Discretionary ligatures
+feature dlig {
+    # Big caps
+    sub T T by T_T;
+    sub R R by R_R;
+    sub L A by L_A;
+    sub space D' E' space by D_E;
+    
+    #Small caps
+    sub t t by t_t;
+    sub r r by r_r;
+    sub l a by l_a;
+    sub space d' e' space by d_e;
+} dlig;
+
+#Alternates
+feature aalt {
+    #Big caps
+    sub K from [K K.alt_1];
+    sub J from [J J.alt_1];
+    
+    #Small caps
+    sub k from [k k.alt_1];
+    sub j from [j j.alt_1];
+    } aalt;

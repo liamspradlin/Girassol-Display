@@ -454,7 +454,7 @@
     <key>com.typemytype.robofont.compileSettings.layerName</key>
     <string>foreground</string>
     <key>com.typemytype.robofont.compileSettings.path</key>
-    <string>/Users/liam/Documents/GitHub/Girassol-Display/fonts/Girassol-Display.ttf</string>
+    <string>/Users/liam/Desktop/Girassol-Display.ttf</string>
     <key>com.typemytype.robofont.compileSettings.releaseMode</key>
     <integer>1</integer>
     <key>com.typemytype.robofont.italicSlantOffset</key>
@@ -857,13 +857,7 @@
       <string>lozenge</string>
       <string>radical</string>
       <string>summation</string>
-      <string>component_beak_right</string>
-      <string>component_bottom_serif</string>
-      <string>component_top_serif</string>
-      <string>smallcomponent_bottom_serif</string>
-      <string>smallcomponent_top_half_serif</string>
-      <string>smallcomponent_top_serif</string>
-      <string>smallcomponents_btm_half_serif</string>
+      <string>.component_beak_right</string>
       <string>J.alt_1</string>
       <string>K.alt_1</string>
       <string>L_A</string>
@@ -888,6 +882,13 @@
       <string>onequarter</string>
       <string>onehalf</string>
       <string>brokenbar</string>
+      <string>component_beak_right</string>
+      <string>component_bottom_serif</string>
+      <string>component_top_serif</string>
+      <string>smallcomponent_bottom_serif</string>
+      <string>smallcomponent_top_half_serif</string>
+      <string>smallcomponent_top_serif</string>
+      <string>smallcomponents_btm_half_serif</string>
       <string>guillemetleft</string>
       <string>guillemetright</string>
       <string>hyphensoft</string>
@@ -895,7 +896,12 @@
       <string>divisionslash</string>
       <string>mu.math</string>
       <string>uni000D</string>
-      <string>.component_beak_right</string>
+      <string>D_E</string>
+      <string>D_O</string>
+      <string>d_e</string>
+      <string>d_o</string>
+      <string>l_a</string>
+      <string>r_r</string>
     </array>
   </dict>
 </plist>

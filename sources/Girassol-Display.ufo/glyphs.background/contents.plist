@@ -16,6 +16,8 @@
     <string>C_.glif</string>
     <key>D</key>
     <string>D_.glif</string>
+    <key>D_E</key>
+    <string>D__E_.glif</string>
     <key>E</key>
     <string>E_.glif</string>
     <key>G</key>
@@ -118,6 +120,8 @@
     <string>k.alt_1.glif</string>
     <key>l</key>
     <string>l.glif</string>
+    <key>l_a</key>
+    <string>l_a.glif</string>
     <key>n</key>
     <string>n.glif</string>
     <key>nine</key>

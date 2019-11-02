@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="D_E" format="2">
+  <advance width="1024"/>
+  <image fileName="S_creen S_hot 2019-05-27 at 5.08.57 P_M_.png" xScale="0.9215467062722931" yScale="0.9215467062722931" xOffset="-45.772108843537346" yOffset="-107.94970845481045"/>
+  <outline>
+    <component base="B"/>
+  </outline>
+</glyph>
