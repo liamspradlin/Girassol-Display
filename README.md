@@ -18,12 +18,36 @@ inspirational forms, while accounting for my own presence and experiences.
 
 ## Features
 Features include lining numerals, fractions, discretionary ligatures, and alternates.
+**Default ligatures**
+* TT
+* RR
+
+**Discretionary ligatures**
+* DE
+* EA
+* LA
+* TE
+* TT
+
+**Titling**
+* Words (up to 5 characters) set in lowercase/smallcaps between words set in caps vertically center
+
+**Alternates**
+* J
+* K
+* dagger/daggerdbl
 
 ## License
 Girassol is licensed under the SIL Open Font License v1.1
 
 ## Changelog
 New changes will be added to the start of this section.
+
+**3 November 2019 (Liam Spradlin) Girassol v0.03**
+* Added new ligatures T/E and E/A
+* Organized features
+* Added a titling feature that elevates smallcap words set between cap words  
+* Updated .notdef :)
 
 **2 November 2019 (Liam Spradlin) Girassol v0.02**
 * Added OpenType features to support discretionary ligatures and alternates
