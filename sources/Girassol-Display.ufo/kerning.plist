@@ -22,6 +22,13 @@
       <key>T_T</key>
       <integer>-32</integer>
     </dict>
+    <key>L_a</key>
+    <dict>
+      <key>t</key>
+      <integer>-32</integer>
+      <key>t_t</key>
+      <integer>-32</integer>
+    </dict>
     <key>T</key>
     <dict>
       <key>A</key>

@@ -117,6 +117,7 @@
           <string>Racute</string>
           <string>Rcaron</string>
           <string>Rcommaaccent</string>
+          <string>germandbls</string>
           <string>Sacute</string>
           <string>Scaron</string>
           <string>Scedilla</string>
@@ -143,6 +144,13 @@
           <string>Zacute</string>
           <string>Zcaron</string>
           <string>Zdotaccent</string>
+          <string>D_E</string>
+          <string>E_A</string>
+          <string>L_A</string>
+          <string>L_a</string>
+          <string>R_R</string>
+          <string>T_E</string>
+          <string>T_T</string>
           <string>a</string>
           <string>b</string>
           <string>c</string>
@@ -185,7 +193,6 @@
           <string>eng</string>
           <string>mu</string>
           <string>oslash</string>
-          <string>germandbls</string>
           <string>thorn</string>
           <string>tbar</string>
           <string>agrave</string>
@@ -249,6 +256,7 @@
           <string>racute</string>
           <string>rcommaaccent</string>
           <string>rcaron</string>
+          <string>small.germandbls</string>
           <string>sacute</string>
           <string>scaron</string>
           <string>scedilla</string>
@@ -277,6 +285,12 @@
           <string>zcaron</string>
           <string>zcircumflex</string>
           <string>zdotaccent</string>
+          <string>d_e</string>
+          <string>e_a</string>
+          <string>l_a</string>
+          <string>r_r</string>
+          <string>t_e</string>
+          <string>t_t</string>
           <string>grave</string>
           <string>acute</string>
           <string>circumflex</string>
@@ -316,8 +330,6 @@
           <string>quotedblbase</string>
           <string>guilsinglleft</string>
           <string>guilsinglright</string>
-          <string>guillemotleft</string>
-          <string>guillemotright</string>
           <string>backslash</string>
           <string>slash</string>
           <string>bar</string>
@@ -402,17 +414,8 @@
           <string>radical</string>
           <string>summation</string>
           <string>.component_beak_right</string>
-          <string>.component_bottom_serif</string>
-          <string>.component_top_serif</string>
-          <string>.smallcomponent_bottom_serif</string>
-          <string>.smallcomponent_top_half_serif</string>
-          <string>.smallcomponent_top_serif</string>
-          <string>.smallcomponents_bottom_half_serif</string>
           <string>J.alt_1</string>
           <string>K.alt_1</string>
-          <string>L_A</string>
-          <string>R_R</string>
-          <string>T_T</string>
           <string>ampersand.alt_1</string>
           <string>dagger.alt_1</string>
           <string>daggerdbl.alt_1</string>
@@ -421,19 +424,30 @@
           <string>frac34</string>
           <string>j.alt_1</string>
           <string>k.alt_1</string>
-          <string>small.germandbls</string>
-          <string>t_t</string>
-          <string>softhyphen</string>
           <string>guilsingleft_small</string>
           <string>guilsingright_small</string>
           <string>guillemotleft_small</string>
           <string>guillemotright_small</string>
-          <string>T_E</string>
           <string>threequarters</string>
           <string>onequarter</string>
           <string>onehalf</string>
           <string>brokenbar</string>
-          <string>currencysign</string>
+          <string>component_beak_right</string>
+          <string>component_bottom_serif</string>
+          <string>component_top_serif</string>
+          <string>smallcomponent_bottom_serif</string>
+          <string>smallcomponent_top_half_serif</string>
+          <string>smallcomponent_top_serif</string>
+          <string>smallcomponents_btm_half_serif</string>
+          <string>guillemetleft</string>
+          <string>guillemetright</string>
+          <string>hyphensoft</string>
+          <string>currency</string>
+          <string>divisionslash</string>
+          <string>mu.math</string>
+          <string>uni000D</string>
+          <string>D_O</string>
+          <string>d_o</string>
         </array>
         <key>type</key>
         <string>glyphList</string>
@@ -575,6 +589,7 @@
       <string>Racute</string>
       <string>Rcaron</string>
       <string>Rcommaaccent</string>
+      <string>germandbls</string>
       <string>Sacute</string>
       <string>Scaron</string>
       <string>Scedilla</string>
@@ -601,6 +616,13 @@
       <string>Zacute</string>
       <string>Zcaron</string>
       <string>Zdotaccent</string>
+      <string>D_E</string>
+      <string>E_A</string>
+      <string>L_A</string>
+      <string>L_a</string>
+      <string>R_R</string>
+      <string>T_E</string>
+      <string>T_T</string>
       <string>a</string>
       <string>b</string>
       <string>c</string>
@@ -643,7 +665,6 @@
       <string>eng</string>
       <string>mu</string>
       <string>oslash</string>
-      <string>germandbls</string>
       <string>thorn</string>
       <string>tbar</string>
       <string>agrave</string>
@@ -707,6 +728,7 @@
       <string>racute</string>
       <string>rcommaaccent</string>
       <string>rcaron</string>
+      <string>small.germandbls</string>
       <string>sacute</string>
       <string>scaron</string>
       <string>scedilla</string>
@@ -735,6 +757,12 @@
       <string>zcaron</string>
       <string>zcircumflex</string>
       <string>zdotaccent</string>
+      <string>d_e</string>
+      <string>e_a</string>
+      <string>l_a</string>
+      <string>r_r</string>
+      <string>t_e</string>
+      <string>t_t</string>
       <string>grave</string>
       <string>acute</string>
       <string>circumflex</string>
@@ -860,9 +888,6 @@
       <string>.component_beak_right</string>
       <string>J.alt_1</string>
       <string>K.alt_1</string>
-      <string>L_A</string>
-      <string>R_R</string>
-      <string>T_T</string>
       <string>ampersand.alt_1</string>
       <string>dagger.alt_1</string>
       <string>daggerdbl.alt_1</string>
@@ -871,13 +896,10 @@
       <string>frac34</string>
       <string>j.alt_1</string>
       <string>k.alt_1</string>
-      <string>small.germandbls</string>
-      <string>t_t</string>
       <string>guilsingleft_small</string>
       <string>guilsingright_small</string>
       <string>guillemotleft_small</string>
       <string>guillemotright_small</string>
-      <string>T_E</string>
       <string>threequarters</string>
       <string>onequarter</string>
       <string>onehalf</string>
@@ -896,12 +918,9 @@
       <string>divisionslash</string>
       <string>mu.math</string>
       <string>uni000D</string>
-      <string>D_E</string>
       <string>D_O</string>
-      <string>d_e</string>
       <string>d_o</string>
-      <string>l_a</string>
-      <string>r_r</string>
+      <string>d_i.raised</string>
     </array>
   </dict>
 </plist>

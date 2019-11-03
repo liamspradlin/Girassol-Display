@@ -54,6 +54,8 @@
     <string>D_croat.glif</string>
     <key>E</key>
     <string>E_.glif</string>
+    <key>E_A</key>
+    <string>E__A_.glif</string>
     <key>Eacute</key>
     <string>E_acute.glif</string>
     <key>Ebreve</key>
@@ -126,6 +128,8 @@
     <string>L_.glif</string>
     <key>L_A</key>
     <string>L__A_.glif</string>
+    <key>L_a</key>
+    <string>L__a.glif</string>
     <key>Lacute</key>
     <string>L_acute.glif</string>
     <key>Lcaron</key>
@@ -198,6 +202,8 @@
     <string>S_commaaccent.glif</string>
     <key>T</key>
     <string>T_.glif</string>
+    <key>T_E</key>
+    <string>T__E_.glif</string>
     <key>T_T</key>
     <string>T__T_.glif</string>
     <key>Tbar</key>
@@ -400,6 +406,8 @@
     <string>dotlessi.glif</string>
     <key>e</key>
     <string>e.glif</string>
+    <key>e_a</key>
+    <string>e_a.glif</string>
     <key>eacute</key>
     <string>eacute.glif</string>
     <key>ebreve</key>
@@ -722,6 +730,8 @@
     <string>sterling.glif</string>
     <key>t</key>
     <string>t.glif</string>
+    <key>t_e</key>
+    <string>t_e.glif</string>
     <key>t_t</key>
     <string>t_t.glif</string>
     <key>tbar</key>
