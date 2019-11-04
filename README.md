@@ -36,6 +36,7 @@ Features include lining numerals, fractions, discretionary ligatures, and altern
 **Alternates**
 * J
 * K
+* Q
 * dagger/daggerdbl
 
 ## License
