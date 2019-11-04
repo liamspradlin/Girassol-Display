@@ -44,7 +44,8 @@ Girassol is licensed under the SIL Open Font License v1.1
 ## Changelog
 New changes will be added to the start of this section.
 
-**3 November 2019 (Liam Spradlin) Girassol v0.03/v0.04**
+**3 November 2019 (Liam Spradlin) Girassol v0.03/v0.04**  
+
 v0.04
 * Cleaned up feature code
 * Added alternate Q
