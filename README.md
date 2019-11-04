@@ -14,7 +14,7 @@ inspirational forms, while accounting for my own presence and experiences.
 
 <br/>
 
-![Type samples](docs/images/Girassol_Samples-01.png)
+![Type samples](docs/images/Girassol_Samples.png)
 
 ## Features
 Features include lining numerals, fractions, discretionary ligatures, and alternates.  
