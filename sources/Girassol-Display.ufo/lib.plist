@@ -31,13 +31,16 @@
           <string>H</string>
           <string>I</string>
           <string>J</string>
+          <string>J.alt_1</string>
           <string>K</string>
+          <string>K.alt_1</string>
           <string>L</string>
           <string>M</string>
           <string>N</string>
           <string>O</string>
           <string>P</string>
           <string>Q</string>
+          <string>Q.alt_1</string>
           <string>R</string>
           <string>S</string>
           <string>T</string>
@@ -162,7 +165,9 @@
           <string>i</string>
           <string>dotlessi</string>
           <string>j</string>
+          <string>j.alt_1</string>
           <string>k</string>
+          <string>k.alt_1</string>
           <string>kgreenlandic</string>
           <string>l</string>
           <string>m</string>
@@ -170,6 +175,7 @@
           <string>o</string>
           <string>p</string>
           <string>q</string>
+          <string>q.alt_1</string>
           <string>r</string>
           <string>s</string>
           <string>t</string>
@@ -352,13 +358,16 @@
           <string>braceleft</string>
           <string>braceright</string>
           <string>dagger</string>
+          <string>dagger.alt_1</string>
           <string>daggerdbl</string>
+          <string>daggerdbl.alt_1</string>
           <string>asterisk</string>
           <string>quotesingle</string>
           <string>quotedbl</string>
           <string>minute</string>
           <string>second</string>
           <string>ampersand</string>
+          <string>ampersand.alt_1</string>
           <string>at</string>
           <string>soundrecordingcopyright</string>
           <string>registered</string>
@@ -413,26 +422,10 @@
           <string>lozenge</string>
           <string>radical</string>
           <string>summation</string>
-          <string>.component_beak_right</string>
-          <string>J.alt_1</string>
-          <string>K.alt_1</string>
-          <string>ampersand.alt_1</string>
-          <string>dagger.alt_1</string>
-          <string>daggerdbl.alt_1</string>
-          <string>frac12</string>
-          <string>frac14</string>
-          <string>frac34</string>
-          <string>j.alt_1</string>
-          <string>k.alt_1</string>
-          <string>guilsingleft_small</string>
-          <string>guilsingright_small</string>
-          <string>guillemotleft_small</string>
-          <string>guillemotright_small</string>
           <string>threequarters</string>
           <string>onequarter</string>
           <string>onehalf</string>
           <string>brokenbar</string>
-          <string>component_beak_right</string>
           <string>component_bottom_serif</string>
           <string>component_top_serif</string>
           <string>smallcomponent_bottom_serif</string>
@@ -446,8 +439,18 @@
           <string>divisionslash</string>
           <string>mu.math</string>
           <string>uni000D</string>
+          <string>component_beak_right</string>
           <string>D_O</string>
           <string>d_o</string>
+          <string>.component_beak_right</string>
+          <string>frac12</string>
+          <string>frac14</string>
+          <string>frac34</string>
+          <string>guilsingleft_small</string>
+          <string>guilsingright_small</string>
+          <string>guillemotleft_small</string>
+          <string>guillemotright_small</string>
+          <string>d_i.raised</string>
         </array>
         <key>type</key>
         <string>glyphList</string>
@@ -503,13 +506,16 @@
       <string>H</string>
       <string>I</string>
       <string>J</string>
+      <string>J.alt_1</string>
       <string>K</string>
+      <string>K.alt_1</string>
       <string>L</string>
       <string>M</string>
       <string>N</string>
       <string>O</string>
       <string>P</string>
       <string>Q</string>
+      <string>Q.alt_1</string>
       <string>R</string>
       <string>S</string>
       <string>T</string>
@@ -634,7 +640,9 @@
       <string>i</string>
       <string>dotlessi</string>
       <string>j</string>
+      <string>j.alt_1</string>
       <string>k</string>
+      <string>k.alt_1</string>
       <string>kgreenlandic</string>
       <string>l</string>
       <string>m</string>
@@ -642,6 +650,7 @@
       <string>o</string>
       <string>p</string>
       <string>q</string>
+      <string>q.alt_1</string>
       <string>r</string>
       <string>s</string>
       <string>t</string>
@@ -824,13 +833,16 @@
       <string>braceleft</string>
       <string>braceright</string>
       <string>dagger</string>
+      <string>dagger.alt_1</string>
       <string>daggerdbl</string>
+      <string>daggerdbl.alt_1</string>
       <string>asterisk</string>
       <string>quotesingle</string>
       <string>quotedbl</string>
       <string>minute</string>
       <string>second</string>
       <string>ampersand</string>
+      <string>ampersand.alt_1</string>
       <string>at</string>
       <string>soundrecordingcopyright</string>
       <string>registered</string>
@@ -885,26 +897,10 @@
       <string>lozenge</string>
       <string>radical</string>
       <string>summation</string>
-      <string>.component_beak_right</string>
-      <string>J.alt_1</string>
-      <string>K.alt_1</string>
-      <string>ampersand.alt_1</string>
-      <string>dagger.alt_1</string>
-      <string>daggerdbl.alt_1</string>
-      <string>frac12</string>
-      <string>frac14</string>
-      <string>frac34</string>
-      <string>j.alt_1</string>
-      <string>k.alt_1</string>
-      <string>guilsingleft_small</string>
-      <string>guilsingright_small</string>
-      <string>guillemotleft_small</string>
-      <string>guillemotright_small</string>
       <string>threequarters</string>
       <string>onequarter</string>
       <string>onehalf</string>
       <string>brokenbar</string>
-      <string>component_beak_right</string>
       <string>component_bottom_serif</string>
       <string>component_top_serif</string>
       <string>smallcomponent_bottom_serif</string>
@@ -918,8 +914,17 @@
       <string>divisionslash</string>
       <string>mu.math</string>
       <string>uni000D</string>
+      <string>component_beak_right</string>
       <string>D_O</string>
       <string>d_o</string>
+      <string>.component_beak_right</string>
+      <string>frac12</string>
+      <string>frac14</string>
+      <string>frac34</string>
+      <string>guilsingleft_small</string>
+      <string>guilsingright_small</string>
+      <string>guillemotleft_small</string>
+      <string>guillemotright_small</string>
       <string>d_i.raised</string>
     </array>
   </dict>

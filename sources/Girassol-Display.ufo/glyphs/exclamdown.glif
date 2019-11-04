@@ -18,20 +18,7 @@
       <point x="125" y="-215"/>
       <point x="145.0" y="-191"/>
     </contour>
-    <contour>
-      <point x="143" y="491" type="curve"/>
-      <point x="143" y="529"/>
-      <point x="124" y="550"/>
-      <point x="88" y="550" type="curve"/>
-      <point x="54" y="550"/>
-      <point x="36" y="529"/>
-      <point x="36" y="491" type="curve"/>
-      <point x="36" y="452"/>
-      <point x="55" y="430"/>
-      <point x="88" y="430" type="curve"/>
-      <point x="124.0" y="430"/>
-      <point x="143.0" y="451"/>
-    </contour>
+    <component base="period" yOffset="418"/>
   </outline>
   <lib>
     <dict>

@@ -3,7 +3,6 @@
   <advance width="459"/>
   <outline>
     <component base="G"/>
-    <component base="commaaccent"/>
     <component base="commaaccent" xOffset="150" yOffset="-151"/>
   </outline>
   <lib>

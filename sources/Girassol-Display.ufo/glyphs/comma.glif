@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="comma" format="2">
-  <advance width="179"/>
+  <advance width="181"/>
   <unicode hex="002C"/>
   <outline>
     <contour>
-      <point x="77" y="39" type="line"/>
-      <point x="87.0" y="-2.0"/>
-      <point x="80" y="-32"/>
-      <point x="59" y="-48" type="curve" smooth="yes"/>
-      <point x="44" y="-59" type="line"/>
-      <point x="64" y="-87" type="line"/>
-      <point x="86" y="-70" type="line" smooth="yes"/>
-      <point x="125" y="-40"/>
-      <point x="143" y="-1.0"/>
-      <point x="143" y="54" type="curve"/>
-      <point x="143" y="93"/>
-      <point x="124" y="115"/>
-      <point x="91" y="115" type="curve"/>
-      <point x="55" y="115"/>
-      <point x="36" y="94"/>
-      <point x="36" y="54" type="curve"/>
-      <point x="36" y="16"/>
-      <point x="55" y="-5"/>
-      <point x="91" y="-5" type="curve"/>
+      <point x="71" y="-68" type="line"/>
+      <point x="122" y="-49"/>
+      <point x="157" y="-6"/>
+      <point x="157" y="46" type="curve"/>
+      <point x="157" y="88"/>
+      <point x="128" y="120"/>
+      <point x="90" y="121" type="curve" smooth="yes"/>
+      <point x="54" y="122"/>
+      <point x="24" y="92"/>
+      <point x="24" y="55" type="curve" smooth="yes"/>
+      <point x="24" y="-3"/>
+      <point x="89" y="-7"/>
+      <point x="89" y="-7" type="curve"/>
+      <point x="89" y="-7"/>
+      <point x="81" y="-28"/>
+      <point x="55" y="-38" type="curve"/>
     </contour>
   </outline>
   <lib>

@@ -34,20 +34,7 @@
       <point x="356" y="402"/>
       <point x="210" y="469"/>
     </contour>
-    <contour>
-      <point x="188" y="54" type="curve"/>
-      <point x="188" y="16"/>
-      <point x="207" y="-5"/>
-      <point x="243" y="-5" type="curve"/>
-      <point x="277" y="-5"/>
-      <point x="295" y="16"/>
-      <point x="295" y="54" type="curve"/>
-      <point x="295" y="93"/>
-      <point x="276" y="115"/>
-      <point x="243" y="115" type="curve"/>
-      <point x="207" y="115"/>
-      <point x="188" y="94"/>
-    </contour>
+    <component base="period" xOffset="150"/>
   </outline>
   <lib>
     <dict>

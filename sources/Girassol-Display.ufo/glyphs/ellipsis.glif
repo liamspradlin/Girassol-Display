@@ -1,50 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ellipsis" format="2">
-  <advance width="465"/>
+  <advance width="511"/>
   <unicode hex="2026"/>
   <outline>
-    <contour>
-      <point x="24" y="54" type="curve"/>
-      <point x="24" y="16"/>
-      <point x="43" y="-5"/>
-      <point x="79" y="-5" type="curve"/>
-      <point x="113" y="-5.0"/>
-      <point x="131" y="16.0"/>
-      <point x="131" y="54" type="curve"/>
-      <point x="131" y="93"/>
-      <point x="112" y="115"/>
-      <point x="79" y="115" type="curve"/>
-      <point x="43" y="115"/>
-      <point x="24" y="94"/>
-    </contour>
-    <contour>
-      <point x="179" y="54" type="curve"/>
-      <point x="179" y="16"/>
-      <point x="198" y="-5"/>
-      <point x="234" y="-5" type="curve"/>
-      <point x="268" y="-5.0"/>
-      <point x="286" y="16.0"/>
-      <point x="286" y="54" type="curve"/>
-      <point x="286" y="93"/>
-      <point x="267" y="115"/>
-      <point x="234" y="115" type="curve"/>
-      <point x="198" y="115"/>
-      <point x="179" y="94"/>
-    </contour>
-    <contour>
-      <point x="334" y="54" type="curve"/>
-      <point x="334" y="16"/>
-      <point x="353" y="-5"/>
-      <point x="389" y="-5" type="curve"/>
-      <point x="423" y="-5.0"/>
-      <point x="441" y="16.0"/>
-      <point x="441" y="54" type="curve"/>
-      <point x="441" y="93"/>
-      <point x="422" y="115"/>
-      <point x="389" y="115" type="curve"/>
-      <point x="353" y="115"/>
-      <point x="334" y="94"/>
-    </contour>
+    <component base="period"/>
+    <component base="period" xOffset="165"/>
+    <component base="period" xOffset="330"/>
   </outline>
   <lib>
     <dict>

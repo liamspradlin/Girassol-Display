@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="dagger" format="2">
-  <advance width="500"/>
-  <unicode hex="2020"/>
-  <image fileName="dagger" xScale="0.5288044157477553" yScale="0.5288044157477548" xOffset="6.093715709650297" yOffset="181.6816283669295"/>
-  <outline>
-  </outline>
-</glyph>

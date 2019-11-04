@@ -40,23 +40,28 @@ feature aalt {
     #Big caps
     sub J from [J J.alt_1];
     sub K from [K K.alt_1];
+    sub Q from [Q Q.alt_1];
     
     #Small caps
     sub j from [j j.alt_1];
     sub k from [k k.alt_1];
+    sub q from [q q.alt_1];
     
     #Other stuff
     sub dagger from [dagger dagger.alt_1];
     sub daggerdbl from [daggerdbl daggerdbl.alt_1];
+    sub @SmallCapitals ampersand' @SmallCapitals by ampersand.alt_1;
     } aalt;
     
 #Contextual position changes
 feature titl {
     #Position changes for smallcap words (up to 5 characters) between cap words
-        position @Capitals space @SmallCapitals' <0 50 0 -50> space @Capitals;
-        position @Capitals space @SmallCapitals' <0 50 0 -50> @SmallCapitals' <0 50 0 -50> space @Capitals;
-        position @Capitals space @SmallCapitals' <0 50 0 -50> @SmallCapitals' <0 50 0 -50> @SmallCapitals' <0 50 0 -50> space @Capitals;
-        position @Capitals space @SmallCapitals' <0 50 0 -50> @SmallCapitals' <0 50 0 -50> @SmallCapitals' <0 50 0 -50> @SmallCapitals' <0 50 0 -50> space @Capitals;
-        position @Capitals space @SmallCapitals' <0 50 0 -50>     @SmallCapitals' <0 50 0 -50> @SmallCapitals' <0 50 0 -50> @SmallCapitals' <0 50 0 -50> @SmallCapitals' <0 50 0 -50> space @Capitals;
+    position @Capitals space @SmallCapitals' <0 50 0 -50> space @Capitals;
+    position @Capitals space @SmallCapitals' <0 50 0 -50> @SmallCapitals' <0 50 0 -50> space @Capitals;
+    position @Capitals space @SmallCapitals' <0 50 0 -50> @SmallCapitals' <0 50 0 -50> @SmallCapitals' <0 50 0 -50> space @Capitals;
+    position @Capitals space @SmallCapitals' <0 50 0 -50> @SmallCapitals' <0 50 0 -50> @SmallCapitals' <0 50 0 -50> @SmallCapitals' <0 50 0 -50> space @Capitals;
+    position @Capitals space @SmallCapitals' <0 50 0 -50> @SmallCapitals' <0 50 0 -50> @SmallCapitals' <0 50 0 -50> @SmallCapitals' <0 50 0 -50> @SmallCapitals' <0 50 0 -50> space @Capitals;
+    #And the little ampersand too
+    position @Capitals space ampersand.alt_1' <0 50 0 -50> space @Capitals;
            } titl;
     

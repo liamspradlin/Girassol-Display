@@ -10,9 +10,5 @@
       <string>background</string>
       <string>glyphs.background</string>
     </array>
-    <array>
-      <string>internal</string>
-      <string>glyphs.internal</string>
-    </array>
   </array>
 </plist>

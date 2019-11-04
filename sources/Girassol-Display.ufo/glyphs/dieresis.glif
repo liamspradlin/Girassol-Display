@@ -1,36 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresis" format="2">
-  <advance width="394"/>
+  <advance width="392"/>
   <unicode hex="00A8"/>
   <outline>
-    <contour>
-      <point x="77" y="866" type="curve"/>
-      <point x="77.0" y="834.0"/>
-      <point x="93.0" y="817.0"/>
-      <point x="123" y="817" type="curve"/>
-      <point x="151.0" y="817.0"/>
-      <point x="166.0" y="834.0"/>
-      <point x="166" y="866" type="curve"/>
-      <point x="166.0" y="899.0"/>
-      <point x="151.0" y="917.0"/>
-      <point x="123" y="917" type="curve"/>
-      <point x="93" y="917"/>
-      <point x="77" y="900"/>
-    </contour>
-    <contour>
-      <point x="227" y="866" type="curve"/>
-      <point x="227.0" y="834.0"/>
-      <point x="243.0" y="817.0"/>
-      <point x="273" y="817" type="curve"/>
-      <point x="301.0" y="817.0"/>
-      <point x="316.0" y="834.0"/>
-      <point x="316" y="866" type="curve"/>
-      <point x="316.0" y="899.0"/>
-      <point x="301.0" y="917.0"/>
-      <point x="273" y="917" type="curve"/>
-      <point x="243" y="917"/>
-      <point x="227" y="900"/>
-    </contour>
+    <component base="period" xScale="0.7270267499380725" yScale="0.727026749938073" xOffset="55" yOffset="822"/>
+    <component base="period" xScale="0.7270267499380725" yScale="0.727026749938073" xOffset="206" yOffset="822"/>
   </outline>
   <lib>
     <dict>
