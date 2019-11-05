@@ -1,0 +1,67 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+#Classes for glyph groups
+@Figures = [zero one two three four five six seven eight nine];
+@Capitals = [A B C D E F G H I J K L M N O P Q R S T U V W X Y Z AE OE Aring Aogonek Eogonek Iogonek Uogonek Dcroat Eth Hbar Lslash Oslash Eng Thorn Tbar Aringacute Aacute Agrave Acircumflex Atilde Adieresis Amacron Abreve Alphatonos AEacute Cacute Ccaron Cdotaccent Ccedilla Dcaron Egrave Eacute Ecircumflex Ecaron Edieresis Emacron Ebreve Edotaccent Gbreve Gdotaccent Gcommaaccent Igrave Iacute Icircumflex Itilde Idieresis Imacron Ibreve Idotaccent Kcommaaccent Lacute Ldot Lcaron Lcommaaccent Nacute Ncaron Ntilde Ncommaaccent Ograve Oacute Ocircumflex Otilde Odieresis Omacron Obreve Ohungarumlaut Oslashacute Racute Rcaron Rcommaaccent Sacute Scaron Scedilla Scommaaccent Tcaron Tcommaaccent Ugrave Uacute Ucircumflex Utilde Udieresis Umacron Ubreve Uring Uhungarumlaut Wgrave Wacute Wcircumflex Wdieresis Ygrave Yacute Ycircumflex Ydieresis Zacute Zcaron Zdotaccent T_T R_R E_A L_A T_E D_E J.alt_1 K.alt_1 dagger.alt_1 daggerdbl.alt_1];
+@SmallCapitals = [a b c d e f g h i dotlessi j k kgreenlandic l m n o p q r s t u v w x y z ae oe aogonek eogonek schwa iogonek uogonek dcroat eth hbar lslash eng mu oslash germandbls thorn tbar agrave aacute acircumflex atilde adieresis amacron abreve aring aringacute acaron aeacute cacute ccaron cdotaccent ccedilla dcaron egrave eacute ecircumflex ecaron edieresis emacron ebreve edotaccent etilde gbreve gtilde gdotaccent gcommaaccent gcircumflex igrave iacute icircumflex idieresis imacron ibreve icaron idotaccent kcommaaccent lacute lcaron ldot lcommaaccent nacute ncaron ntilde ndotaccent ncommaaccent ograve oacute ocircumflex otilde ocaron odieresis omacron obreve ohungarumlaut oslashacute racute rcommaaccent rcaron sacute scaron scedilla scircumflex scommaaccent tcaron tcommaaccent ugrave uacute ucaron ucircumflex udieresis umacron ubreve uring uhungarumlaut wgrave wacute wcircumflex wdieresis ygrave yacute ycircumflex ydieresis zacute zcaron zcircumflex zdotaccent t_t r_r e_a l_a t_e d_e j.alt_1 k.alt_1 dagger daggerdbl];
+
+#Standard ligatures (at least standard for Girassol)
+feature liga {
+    #Big caps
+    sub T T by T_T;
+    sub R R by R_R;
+    
+    #Small caps
+    sub t t by t_t;
+    sub r r by r_r;
+    } liga;
+
+#Discretionary ligatures
+feature dlig {
+    # Big caps
+    sub E A by E_A;
+    sub L A by L_A;
+    sub L a by L_a;
+    sub T E by T_E;
+    sub T T by T_T;
+    sub space D' E' space by D_E;
+    
+    #Small caps
+    sub e a by e_a;
+    sub l a by l_a;
+    sub t e by t_e;
+    sub t t by t_t;
+    sub space d' e' space by d_e;
+    } dlig;
+
+#Alternates
+feature aalt {
+    #Big caps
+    sub J from [J J.alt_1];
+    sub K from [K K.alt_1];
+    sub Q from [Q Q.alt_1];
+    
+    #Small caps
+    sub j from [j j.alt_1];
+    sub k from [k k.alt_1];
+    sub q from [q q.alt_1];
+    
+    #Other stuff
+    sub dagger from [dagger dagger.alt_1];
+    sub daggerdbl from [daggerdbl daggerdbl.alt_1];
+    sub @SmallCapitals ampersand' @SmallCapitals by ampersand.alt_1;
+    } aalt;
+    
+#Contextual position changes
+feature titl {
+    #Position changes for smallcap words (up to 5 characters) between cap words
+    position @Capitals space @SmallCapitals' <0 50 0 -50> space @Capitals;
+    position @Capitals space @SmallCapitals' <0 50 0 -50> @SmallCapitals' <0 50 0 -50> space @Capitals;
+    position @Capitals space @SmallCapitals' <0 50 0 -50> @SmallCapitals' <0 50 0 -50> @SmallCapitals' <0 50 0 -50> space @Capitals;
+    position @Capitals space @SmallCapitals' <0 50 0 -50> @SmallCapitals' <0 50 0 -50> @SmallCapitals' <0 50 0 -50> @SmallCapitals' <0 50 0 -50> space @Capitals;
+    position @Capitals space @SmallCapitals' <0 50 0 -50> @SmallCapitals' <0 50 0 -50> @SmallCapitals' <0 50 0 -50> @SmallCapitals' <0 50 0 -50> @SmallCapitals' <0 50 0 -50> space @Capitals;
+    #And the little ampersand too
+    position @Capitals space ampersand.alt_1' <0 50 0 -50> space @Capitals;
+           } titl;
+    

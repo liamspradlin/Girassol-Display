@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccent" format="2">
+  <advance width="253"/>
+  <unicode hex="02D9"/>
+  <outline>
+    <component base="period" xScale="0.7270267499380725" yScale="0.727026749938073" xOffset="61" yOffset="822"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.2645,0.8606,0.3738,1</string>
+    </dict>
+  </lib>
+</glyph>

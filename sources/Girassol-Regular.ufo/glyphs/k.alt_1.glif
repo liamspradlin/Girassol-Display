@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="k.alt_1" format="2">
+  <advance width="495"/>
+  <guideline x="278" y="503" angle="0" identifier="d3zpfejML3"/>
+  <outline>
+    <contour>
+      <point x="84" y="11" type="line"/>
+      <point x="194" y="11" type="line"/>
+      <point x="194" y="518" type="line"/>
+      <point x="84" y="518" type="line"/>
+    </contour>
+    <contour>
+      <point x="443" y="80" type="curve" smooth="yes"/>
+      <point x="348" y="295" type="line"/>
+      <point x="286" y="295" type="line"/>
+      <point x="389" y="459" type="line" smooth="yes"/>
+      <point x="411" y="494"/>
+      <point x="426" y="503"/>
+      <point x="464" y="503" type="curve"/>
+      <point x="464" y="540" type="line"/>
+      <point x="297" y="540" type="line"/>
+      <point x="297" y="503" type="line"/>
+      <point x="334" y="503"/>
+      <point x="356" y="486"/>
+      <point x="344" y="467" type="curve" smooth="yes"/>
+      <point x="235" y="296" type="line"/>
+      <point x="332" y="80" type="line" smooth="yes"/>
+      <point x="344" y="53"/>
+      <point x="331" y="37"/>
+      <point x="297" y="37" type="curve"/>
+      <point x="297" y="0" type="line"/>
+      <point x="507" y="0" type="line"/>
+      <point x="507" y="37" type="line"/>
+      <point x="473" y="37"/>
+      <point x="457" y="48"/>
+    </contour>
+    <component base="smallcomponent_bottom_serif" xOffset="-12"/>
+    <component base="smallcomponent_top_serif" xOffset="-12"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.7355,0,1</string>
+    </dict>
+  </lib>
+</glyph>

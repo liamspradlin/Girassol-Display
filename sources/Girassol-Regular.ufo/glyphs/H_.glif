@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H" format="2">
+  <advance width="548"/>
+  <unicode hex="0048"/>
+  <outline>
+    <contour>
+      <point x="86" y="11" type="line"/>
+      <point x="198" y="11" type="line"/>
+      <point x="198" y="739" type="line"/>
+      <point x="86" y="739" type="line"/>
+    </contour>
+    <contour>
+      <point x="361" y="11" type="line"/>
+      <point x="471" y="11" type="line"/>
+      <point x="471" y="739" type="line"/>
+      <point x="361" y="739" type="line"/>
+    </contour>
+    <contour>
+      <point x="129" y="372" type="line"/>
+      <point x="425" y="372" type="line"/>
+      <point x="425" y="415" type="line"/>
+      <point x="129" y="415" type="line"/>
+    </contour>
+    <contour>
+      <point x="86" y="80" type="line"/>
+      <point x="86" y="48"/>
+      <point x="71" y="37"/>
+      <point x="26" y="37" type="curve"/>
+      <point x="26" y="0" type="line"/>
+      <point x="258" y="0" type="line"/>
+      <point x="258" y="37" type="line"/>
+      <point x="213" y="37"/>
+      <point x="198" y="48"/>
+      <point x="198" y="80" type="curve"/>
+    </contour>
+    <component base="smallcomponent_top_serif" xOffset="265" yOffset="210"/>
+    <component base="smallcomponent_bottom_serif" xOffset="265"/>
+    <component base="component_top_serif" xOffset="-10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.2645,0.8606,0.3738,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ncommaaccent" format="2">
+  <advance width="531"/>
+  <outline>
+    <component base="n"/>
+    <component base="commaaccent" xOffset="184" yOffset="-151"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.7674,0.3884,0.8424,0.67</string>
+    </dict>
+  </lib>
+</glyph>

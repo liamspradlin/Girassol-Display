@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M" format="2">
+  <advance width="736"/>
+  <unicode hex="004D"/>
+  <guideline x="720" y="546" angle="90" identifier="VPgU8CNrLG"/>
+  <outline>
+    <contour>
+      <point x="514" y="750" type="line"/>
+      <point x="351" y="107" type="line"/>
+      <point x="380" y="178" type="line"/>
+      <point x="227" y="750" type="line"/>
+      <point x="90" y="750" type="line"/>
+      <point x="90" y="11" type="line"/>
+      <point x="137" y="11" type="line"/>
+      <point x="137" y="710" type="line"/>
+      <point x="117" y="710" type="line"/>
+      <point x="322" y="0" type="line"/>
+      <point x="368" y="0" type="line"/>
+      <point x="547" y="697" type="line"/>
+      <point x="536" y="697" type="line"/>
+      <point x="536" y="11" type="line"/>
+      <point x="646" y="11" type="line"/>
+      <point x="646" y="750" type="line"/>
+    </contour>
+    <contour>
+      <point x="646" y="670" type="line"/>
+      <point x="646" y="702"/>
+      <point x="661" y="713"/>
+      <point x="706" y="713" type="curve"/>
+      <point x="706" y="750" type="line"/>
+      <point x="589" y="750" type="line"/>
+      <point x="589" y="670" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="37" type="curve"/>
+      <point x="30" y="0" type="line"/>
+      <point x="197" y="0" type="line"/>
+      <point x="197" y="37" type="line"/>
+      <point x="154" y="37"/>
+      <point x="137" y="49"/>
+      <point x="137" y="80" type="curve"/>
+      <point x="90" y="80" type="line"/>
+      <point x="90" y="49"/>
+      <point x="73" y="37"/>
+    </contour>
+    <component base="smallcomponent_bottom_serif" xOffset="440"/>
+    <component base="smallcomponent_top_half_serif" xOffset="-6" yOffset="210"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.2645,0.8606,0.3738,1</string>
+    </dict>
+  </lib>
+</glyph>
