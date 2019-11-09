@@ -221,6 +221,7 @@
           <string>aring</string>
           <string>aringacute</string>
           <string>acaron</string>
+          <string>alphatonos</string>
           <string>aeacute</string>
           <string>cacute</string>
           <string>ccaron</string>
@@ -390,9 +391,11 @@
           <string>dollar</string>
           <string>cent</string>
           <string>yen</string>
+          <string>swiss_franc</string>
           <string>sterling</string>
           <string>lira</string>
           <string>Euro</string>
+          <string>rupee</string>
           <string>section</string>
           <string>paragraph</string>
           <string>degree</string>
@@ -706,6 +709,7 @@
       <string>aring</string>
       <string>aringacute</string>
       <string>acaron</string>
+      <string>alphatonos</string>
       <string>aeacute</string>
       <string>cacute</string>
       <string>ccaron</string>
@@ -875,9 +879,11 @@
       <string>dollar</string>
       <string>cent</string>
       <string>yen</string>
+      <string>swiss_franc</string>
       <string>sterling</string>
       <string>lira</string>
       <string>Euro</string>
+      <string>rupee</string>
       <string>section</string>
       <string>paragraph</string>
       <string>degree</string>
