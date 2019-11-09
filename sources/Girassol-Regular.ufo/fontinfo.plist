@@ -73,6 +73,8 @@
     </array>
     <key>openTypeHheaAscender</key>
     <integer>750</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
     <key>openTypeNameDesigner</key>
     <string>Liam Spradlin</string>
     <key>openTypeNameDesignerURL</key>
@@ -116,6 +118,8 @@
     <integer>3</integer>
     <key>openTypeOS2WinAscent</key>
     <integer>1070</integer>
+    <key>openTypeVheaVertTypoLineGap</key>
+    <integer>0</integer>
     <key>postscriptBlueValues</key>
     <array/>
     <key>postscriptFamilyBlues</key>
