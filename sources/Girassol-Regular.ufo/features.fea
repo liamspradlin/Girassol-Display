@@ -17,6 +17,7 @@ feature liga {
     sub t t by t_t;
     sub r r by r_r;
     sub @SmallCapitals j' by j.alt_1;
+    sub @Capitals j' by j.alt_1;
     
     #Ampersand
     sub @SmallCapitals space ampersand' space @SmallCapitals by ampersand.alt_1;
