@@ -159,6 +159,7 @@
           <string>Zcircumflex</string>
           <string>D_E</string>
           <string>E_A</string>
+          <string>E_a</string>
           <string>L_A</string>
           <string>L_a</string>
           <string>R_R</string>
@@ -647,6 +648,7 @@
       <string>Zcircumflex</string>
       <string>D_E</string>
       <string>E_A</string>
+      <string>E_a</string>
       <string>L_A</string>
       <string>L_a</string>
       <string>R_R</string>
