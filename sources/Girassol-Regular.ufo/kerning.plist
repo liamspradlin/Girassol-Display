@@ -2,101 +2,28 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>A</key>
+    <key>public.kern1.OverRight-Capitals</key>
     <dict>
-      <key>T</key>
+      <key>public.kern2.SmallCapitals</key>
       <integer>-32</integer>
-      <key>T_T</key>
+      <key>public.kern2.UnderLeft-Capitals</key>
       <integer>-32</integer>
-      <key>V</key>
-      <integer>-42</integer>
-      <key>W</key>
-      <integer>-42</integer>
-      <key>v</key>
-      <integer>-32</integer>
+      <key>public.kern2.UnderLeft-SmallCapitals</key>
+      <integer>-56</integer>
     </dict>
-    <key>L_A</key>
+    <key>public.kern1.OverRight-SmallCapitals</key>
     <dict>
-      <key>T</key>
-      <integer>-32</integer>
-      <key>T_T</key>
+      <key>public.kern2.UnderLeft-SmallCapitals</key>
       <integer>-32</integer>
     </dict>
-    <key>L_a</key>
+    <key>public.kern1.UnderRight-Capitals</key>
     <dict>
-      <key>t</key>
-      <integer>-32</integer>
-      <key>t_t</key>
+      <key>public.kern2.OverLeft-Capitals</key>
       <integer>-32</integer>
     </dict>
-    <key>T</key>
+    <key>public.kern1.UnderRight-SmallCapitals</key>
     <dict>
-      <key>A</key>
-      <integer>-32</integer>
-    </dict>
-    <key>T_T</key>
-    <dict>
-      <key>A</key>
-      <integer>-32</integer>
-    </dict>
-    <key>V</key>
-    <dict>
-      <key>A</key>
-      <integer>-42</integer>
-    </dict>
-    <key>W</key>
-    <dict>
-      <key>A</key>
-      <integer>-42</integer>
-      <key>a</key>
-      <integer>-24</integer>
-    </dict>
-    <key>Y</key>
-    <dict>
-      <key>a</key>
-      <integer>-24</integer>
-    </dict>
-    <key>a</key>
-    <dict>
-      <key>t</key>
-      <integer>-16</integer>
-      <key>t_t</key>
-      <integer>-16</integer>
-      <key>v</key>
-      <integer>-42</integer>
-      <key>w</key>
-      <integer>-24</integer>
-    </dict>
-    <key>l_a</key>
-    <dict>
-      <key>t</key>
-      <integer>-16</integer>
-      <key>t_t</key>
-      <integer>-16</integer>
-    </dict>
-    <key>t</key>
-    <dict>
-      <key>a</key>
-      <integer>-16</integer>
-    </dict>
-    <key>t_t</key>
-    <dict>
-      <key>a</key>
-      <integer>-16</integer>
-    </dict>
-    <key>v</key>
-    <dict>
-      <key>a</key>
-      <integer>-24</integer>
-    </dict>
-    <key>w</key>
-    <dict>
-      <key>a</key>
-      <integer>-24</integer>
-    </dict>
-    <key>y</key>
-    <dict>
-      <key>a</key>
+      <key>public.kern2.OverLeft-SmallCapitals</key>
       <integer>-24</integer>
     </dict>
   </dict>
