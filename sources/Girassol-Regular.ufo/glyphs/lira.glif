@@ -46,10 +46,10 @@
       <point x="324" y="374" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="294" y="334" type="line"/>
+      <point x="304" y="334" type="line"/>
       <point x="47" y="334" type="line"/>
       <point x="47" y="295" type="line"/>
-      <point x="294" y="295" type="line" smooth="yes"/>
+      <point x="304" y="295" type="line" smooth="yes"/>
     </contour>
     <component base="smallcomponents_btm_half_serif" xOffset="11" yOffset="106"/>
   </outline>

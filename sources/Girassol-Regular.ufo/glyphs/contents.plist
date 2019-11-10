@@ -312,8 +312,6 @@
     <string>aeacute.glif</string>
     <key>agrave</key>
     <string>agrave.glif</string>
-    <key>alphatonos</key>
-    <string>alphatonos.glif</string>
     <key>amacron</key>
     <string>amacron.glif</string>
     <key>ampersand</key>
@@ -726,8 +724,6 @@
     <string>registered.glif</string>
     <key>ring</key>
     <string>ring.glif</string>
-    <key>rupee</key>
-    <string>rupee.glif</string>
     <key>s</key>
     <string>s.glif</string>
     <key>sacute</key>
@@ -774,8 +770,6 @@
     <string>sterling.glif</string>
     <key>summation</key>
     <string>summation.glif</string>
-    <key>swiss_franc</key>
-    <string>swiss_franc.glif</string>
     <key>t</key>
     <string>t.glif</string>
     <key>t_e</key>
