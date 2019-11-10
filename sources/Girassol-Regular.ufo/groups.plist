@@ -5,6 +5,7 @@
     <key>public.kern1.OverRight-Capitals</key>
     <array>
       <string>F</string>
+      <string>P</string>
       <string>T</string>
       <string>V</string>
       <string>W</string>
@@ -41,6 +42,7 @@
       <string>ydieresis</string>
       <string>t_t</string>
       <string>tbar</string>
+      <string>p</string>
     </array>
     <key>public.kern1.UnderRight-Capitals</key>
     <array>
