@@ -34,10 +34,11 @@ Features include lining numerals, fractions, discretionary ligatures, and altern
 * Words (up to 5 characters) set in lowercase/smallcaps between words set in caps vertically center
 
 **Alternates**
-* J
+* J (+ a narrow J will automatically appear when J is set in the middle of words to create more harmonious spacing)
 * K
 * Q
 * dagger/daggerdbl
+* ampersand (a small ampersand will automatically appear when set among smallcaps)
 
 ## License
 Girassol is licensed under the SIL Open Font License v1.1
