@@ -10,3 +10,4 @@
 # Name <email address>
 
 Liam Spradlin <liam@dadapixel.com>
+Yanone <post@yanone.de>
